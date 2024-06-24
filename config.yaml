@@ -1,0 +1,27 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    th:
+      email: 1345412477@qq.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Tang Heng
+      password: $2b$12$mLowhGV/2LD1LuKyCup8Re6/SJPh54wVBxzpG3jL/vs8eux/V8rU.
+    wt:
+      email: 2726234495@qq.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Wu Tao
+      password: $2b$12$VKtsCt9h7YbQCny9UbaTh.VqsEi7GBrmn3273tJ41nqcMoNeF89BG
+    wyh:
+      email: 980259394@qq.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Wu Yuhao
+      password: $2b$12$Kew8qQT3eKT5lHAS07WZYO41igs9MD1TwXdwT0i0.zOjhi2Eu8OFW
+pre-authorized:
+  emails:
+  - melsby@gmail.com
